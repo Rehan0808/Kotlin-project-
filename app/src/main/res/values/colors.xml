@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <!-- Professional Palette with completely new colors -->
+
+ <!-- Muted purples -->
+ <color name="purple_200">#0A0B23</color>   <!-- A light, soft muted purple -->
+ <color name="purple_500">#7E57C2</color>   <!-- A refined, medium muted purple -->
+ <color name="purple_700">#512DA8</color>   <!-- A deep, authoritative purple -->
+
+ <!-- Subtle teals -->
+ <color name="teal_200">#80CBC4</color>     <!-- A calm, muted teal -->
+ <color name="teal_700">#00897B</color>     <!-- A strong, professional teal -->
+
+ <!-- Updated neutrals -->
+ <color name="black">#212121</color>        <!-- A soft, professional dark grey -->
+ <color name="white">#FFFFFF</color>        <!-- Standard pure white -->
+
+ <!-- Redesigned backgrounds and accents -->
+ <color name="colorPrimaryDark">#283593</color>   <!-- A deep, dependable blue for headers/toolbars -->
+ <color name="app_background">#B19BA6A9</color>       <!-- A clean, light grey-blue background -->
+
+ <!-- Accent colors for transactions -->
+ <color name="income_color">#388E3C</color>         <!-- A mature, sophisticated green -->
+ <color name="itemIconTint">#E25914</color>         <!-- A balanced mid-grey for icons -->
+ <color name="itemTextColor">#F2F0700A</color>         <!-- A softer grey for text readability -->
+ <color name="expense_color">#D32F2F</color>        <!-- A strong, professional red -->
+ <color name="date_color">#757575</color>           <!-- A neutral grey for date elements -->
+ <color name="expense_ammount_color">#B71C1C</color> <!-- A deep, impactful red for expense amounts -->
+
+ <!-- Bottom Navigation in a new professional shade -->
+ <color name="bottomNavBackground">#0A0B23</color>  <!-- A solid, dark blue that maintains visual impact -->
+
+ <!-- Updated card background tint -->
+ <color name="cardBackgroundTint">#CFD8DC</color>   <!-- A refined, subtle grey-blue for a modern card look -->
+</resources>
